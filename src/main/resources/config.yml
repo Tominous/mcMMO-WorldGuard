@@ -9,7 +9,7 @@
 ###
 General:
     # Should mcMMO-WorldGuard print out debug messages?
-    Verbose_Logging: false
+    Verbose_Logging: true
     # Should mcMMO-WorldGuard over-write configs to update, or make new ones ending in .new?
     Config_Update_Overwrite: true
 
